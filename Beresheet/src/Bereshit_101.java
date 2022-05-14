@@ -61,9 +61,8 @@
                     if(ang>3) {ang-=3;} // rotate to vertical position.
                     else {ang =0;}
                     double pid_output = pid.getOutput(alt);
-                    if (pid_output > 10){NN=0;}
+                    if (pid_output > 10){NN=0;} //pid compute
                     if (pid_output < 0){NN=0.4;}
-                    // brake slowly, a proper PID controller here is needed!
                     if(hs<2) {hs=0;}
                     if(alt<125) { // very close to the ground!
                         NN=0.95; // maximum braking!

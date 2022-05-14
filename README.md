@@ -10,12 +10,12 @@
   * במסמכים המצורפים ניתן לראות את תוצאות הסימולציה בעזרת גרפים וטבלאת אקסל.
 
 ### נתוני התחלה:
-vs = 24.8 (Vertical Speed)
-hs = 932 (Horizontal Speed)
-dist = (Distance from the moon)
-ang = 58.3 (Bereshit angle)
-fuel = 121
-NN = Engine (0 - 1)
+* vs = 24.8 (Vertical Speed)
+* hs = 932 (Horizontal Speed)
+* dist = (Distance from the moon)
+* ang = 58.3 (Bereshit angle)
+* fuel = 121
+* NN = Engine (0 - 1)
 
 ### מטרת המטלה:
 מטרתינו במטלה זו היא להנחית את החללית בראשית בשלום (כאשר המהירות האנכית קטנה מ2.5) עם כמות דלק גבוה ככל הניתן.

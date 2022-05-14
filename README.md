@@ -12,9 +12,11 @@
 ### נתוני התחלה:
 * vs = 24.8 (Vertical Speed)
 * hs = 932 (Horizontal Speed)
-* dist = (Distance from the moon)
+* dist = 181*1000 (Distance from the moon)
 * ang = 58.3 (Bereshit angle)
+* altitide = 13748
 * fuel = 121
+* weight = 165+420
 * NN = Engine (0 - 1)
 
 ### מטרת המטלה:
